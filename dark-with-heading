@@ -6,7 +6,7 @@
 		max-width: 707px;
 		margin: auto;
 		padding: 4vw;
-		font: 1rem/1.8 sans-serif;
+		font-family: Verdana, Geneva, sans-serif;
 		color: #eee8d5;
 		background: #002b36;
 	}
