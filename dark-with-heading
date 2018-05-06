@@ -1,6 +1,7 @@
 
 <meta name="viewport" content="width=device-width">
 <style>
+	h1 { text-align: center }
 	body {
 		max-width: 707px;
 		margin: auto;
@@ -11,5 +12,5 @@
 	}
 	img { max-width: 100% }
 </style>
-<h1 contenteditable>Heading</h1>
-<body contenteditable>Body text
+<h1 contenteditable>Title</h1>
+<body contenteditable>notes
